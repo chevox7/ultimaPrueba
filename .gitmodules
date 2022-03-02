@@ -1,0 +1,4 @@
+[submodule "chevox7/ProyectoPrueba"]
+	path = chevox7/ProyectoPrueba
+	url = git@github.com:chevox7/ProyectoPrueba.git
+	branch = master
